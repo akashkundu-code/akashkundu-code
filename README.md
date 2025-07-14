@@ -2,17 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-## 🚀 About Me
-
-I'm a passionate developer who loves to build innovative solutions and learn new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-
-- 🔭 I'm currently working on exciting projects that challenge me to grow
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related - I love to help!
-- 📫 How to reach me: [Your Email Here]
-- ⚡ Fun fact: I believe that great code is like a well-written story
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -69,24 +58,18 @@ I'm a passionate developer who loves to build innovative solutions and learn new
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashhkundu/)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imakxh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://bento.me/akashkundu)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkundu1265@gmail.com)
 
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
   
-### ⭐ From [akashkundu-code](https://github.com/akashkundu-code)
+### [Akash Kundu](https://github.com/akashkundu-code)
 
-_"Code is like humor. When you have to explain it, it's bad."_ - Cory House
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akashkundu-code&color=brightgreen&style=flat-square)](https://github.com/akashkundu-code)
 
